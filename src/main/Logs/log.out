@@ -1,0 +1,55 @@
+2020-11-12 12:49:27.500 INFO  DriverClass :34 - Crome Browser is opened
+2020-11-12 12:49:32.017 INFO  DriverClass :59 - Expected Url is--->https://www.next.co.uk/
+2020-11-12 12:49:32.017 INFO  DriverClass :60 - Actual Url is--->https://www.next.co.uk/
+2020-11-12 12:49:32.018 INFO  DriverClass :61 - Home page Url is verified 
+2020-11-12 12:49:32.672 INFO  DriverClass :94 - Expected Url is--->https://www.next.co.uk/secure/account/Login is verified with Actual Url---> https://www.next.co.uk/secure/account/Login
+2020-11-12 12:49:32.684 INFO  DriverClass :32 - Expected page title---> Sign In | My Account | Next Directory Onlineis verified with Actual Page title---> Sign In | My Account | Next Directory Online
+2020-11-12 12:49:56.350 INFO  DriverClass :49 - Browser is closed
+2020-11-12 13:03:01.721 INFO  DriverClass :34 - Crome Browser is opened
+2020-11-12 13:03:06.290 INFO  DriverClass :59 - Expected Url is--->https://www.next.co.uk/
+2020-11-12 13:03:06.290 INFO  DriverClass :60 - Actual Url is--->https://www.next.co.uk/
+2020-11-12 13:03:06.290 INFO  DriverClass :61 - Home page Url is verified 
+2020-11-12 13:03:07.029 INFO  DriverClass :94 - Expected Url is--->https://www.next.co.uk/secure/account/Login is verified with Actual Url---> https://www.next.co.uk/secure/account/Login
+2020-11-12 13:03:07.029 INFO  DriverClass :32 - Expected page title---> Sign In | My Account | Next Directory Onlineis verified with Actual Page title---> Sign In | My Account | Next Directory Online
+2020-11-12 13:03:58.880 INFO  DriverClass :34 - Crome Browser is opened
+2020-11-12 13:04:04.688 INFO  DriverClass :49 - Browser is closed
+2020-11-12 13:04:31.533 INFO  DriverClass :34 - Crome Browser is opened
+2020-11-12 13:04:36.012 INFO  DriverClass :59 - Expected Url is--->https://www.next.co.uk/
+2020-11-12 13:04:36.013 INFO  DriverClass :60 - Actual Url is--->https://www.next.co.uk/
+2020-11-12 13:04:36.013 INFO  DriverClass :61 - Home page Url is verified 
+2020-11-12 13:04:36.820 INFO  DriverClass :94 - Expected Url is--->https://www.next.co.uk/secure/account/Login is verified with Actual Url---> https://www.next.co.uk/secure/account/Login
+2020-11-12 13:04:36.831 INFO  DriverClass :32 - Expected page title---> Sign In | My Account | Next Directory Onlineis verified with Actual Page title---> Sign In | My Account | Next Directory Online
+2020-11-12 13:05:01.017 INFO  DriverClass :49 - Browser is closed
+2020-11-12 13:08:24.451 INFO  DriverClass :34 - Crome Browser is opened
+2020-11-12 13:08:28.886 INFO  DriverClass :59 - Expected Url is--->https://www.next.co.uk/
+2020-11-12 13:08:28.887 INFO  DriverClass :60 - Actual Url is--->https://www.next.co.uk/
+2020-11-12 13:08:28.887 INFO  DriverClass :61 - Home page Url is verified 
+2020-11-12 13:08:29.418 INFO  DriverClass :94 - Expected Url is--->https://www.next.co.uk/secure/account/Login is verified with Actual Url---> https://www.next.co.uk/secure/account/Login
+2020-11-12 13:08:29.429 INFO  DriverClass :32 - Expected page title---> Sign In | My Account | Next Directory Onlineis verified with Actual Page title---> Sign In | My Account | Next Directory Online
+2020-11-12 13:08:53.165 INFO  DriverClass :49 - Browser is closed
+2020-11-12 13:10:06.405 INFO  DriverClass :34 - Crome Browser is opened
+2020-11-12 13:10:12.211 INFO  DriverClass :49 - Browser is closed
+2020-11-12 13:10:22.918 INFO  DriverClass :34 - Crome Browser is opened
+2020-11-12 13:10:28.744 INFO  DriverClass :49 - Browser is closed
+2020-11-12 13:10:47.230 INFO  DriverClass :34 - Crome Browser is opened
+2020-11-12 13:10:51.656 INFO  DriverClass :59 - Expected Url is--->https://www.next.co.uk/
+2020-11-12 13:10:51.656 INFO  DriverClass :60 - Actual Url is--->https://www.next.co.uk/
+2020-11-12 13:10:51.656 INFO  DriverClass :61 - Home page Url is verified 
+2020-11-12 13:10:52.361 INFO  DriverClass :94 - Expected Url is--->https://www.next.co.uk/secure/account/Login is verified with Actual Url---> https://www.next.co.uk/secure/account/Login
+2020-11-12 13:10:52.372 INFO  DriverClass :32 - Expected page title---> Sign In | My Account | Next Directory Onlineis verified with Actual Page title---> Sign In | My Account | Next Directory Online
+2020-11-12 13:11:16.809 INFO  DriverClass :49 - Browser is closed
+2020-11-12 13:11:37.757 INFO  DriverClass :34 - Crome Browser is opened
+2020-11-12 13:11:42.147 INFO  DriverClass :59 - Expected Url is--->https://www.next.co.uk/
+2020-11-12 13:11:42.147 INFO  DriverClass :60 - Actual Url is--->https://www.next.co.uk/
+2020-11-12 13:11:42.148 INFO  DriverClass :61 - Home page Url is verified 
+2020-11-12 13:11:42.863 INFO  DriverClass :94 - Expected Url is--->https://www.next.co.uk/secure/account/Login is verified with Actual Url---> https://www.next.co.uk/secure/account/Login
+2020-11-12 13:11:42.874 INFO  DriverClass :32 - Expected page title---> Sign In | My Account | Next Directory Onlineis verified with Actual Page title---> Sign In | My Account | Next Directory Online
+2020-11-12 13:12:28.559 INFO  DriverClass :39 - Firefox Browser is opened
+2020-11-12 13:12:32.300 INFO  DriverClass :59 - Expected Url is--->https://www.next.co.uk/
+2020-11-12 13:12:32.300 INFO  DriverClass :60 - Actual Url is--->https://www.next.co.uk/
+2020-11-12 13:12:32.300 INFO  DriverClass :61 - Home page Url is verified 
+2020-11-12 13:12:35.105 INFO  DriverClass :94 - Expected Url is--->https://www.next.co.uk/secure/account/Login is verified with Actual Url---> https://www.next.co.uk/secure/account/Login
+2020-11-12 13:12:35.105 INFO  DriverClass :32 - Expected page title---> Sign In | My Account | Next Directory Onlineis verified with Actual Page title---> Sign In | My Account | Next Directory Online
+2020-11-12 13:12:40.621 INFO  DriverClass :99 - Expected Thank you message is--->Thank you for registering. is verified with Actual Thank you message---> Thank you for registering.
+2020-11-12 13:12:40.658 INFO  DriverClass :105 - Expected welcome message is--->Welcome To Next is verified with Actual welcome message---> Welcome To Next
+2020-11-12 13:12:41.660 INFO  DriverClass :49 - Browser is closed
